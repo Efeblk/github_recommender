@@ -1,0 +1,26 @@
+0,metabolitics-breast-cancer-case-study,https://github.com/MuhammedHasan/metabolitics-breast-cancer-case-study,JupyterNotebook
+1,keras,https://github.com/keras-team/keras,python
+2,neural-fingerprint,https://github.com/HIPS/neural-fingerprint,TeX
+3,tensorflow,https://github.com/tensorflow/tensorflow,C++
+4,Theano,https://github.com/Theano/Theano,python
+5,autograd,https://github.com/HIPS/autograd,python
+6,brew, brewhttps://github.com/Homebrew/brew,ruby
+7,xgboost,https://github.com/dmlc/xgboost,C++
+8,torch7,https://github.com/torch/torch7,C
+9,char-rnn-tensorflow,https://github.com/sherjilozair/char-rnn-tensorflow,python
+10,python-machine-learning-book,https://github.com/rasbt/python-machine-learning-book,JupyterNotebook
+11,react,https://github.com/facebook/react,JavaScript
+12,react-native,https://github.com/facebook/react-native,JavaScript
+13,handson-ml,https://github.com/ageron/handson-ml,JupyterNotebook
+14,LSTM-Sentiment-Analysis,https://github.com/adeshpande3/LSTM-Sentiment-Analysis,JupyterNotebook
+15,zemberek-nlp,https://github.com/ahmetaa/zemberek-nlp,Java
+16,fastText,https://github.com/facebookresearch/fastText,HTML
+17,Neural-networks-and-deep-learning,https://github.com/mnielsen/neural-networks-and-deep-learning,python
+18,vue,https://github.com/vuejs/vue,JavaScript
+19,kolpa,https://github.com/malisit/kolpa,Go
+20,spark,https://github.com/apache/spark,Scala
+21,Knet.jl,https://github.com/denizyuret/Knet.jl,Julia
+22,doksan,https://github.com/malisit/doksan,Dart
+23,Spring,https://github.com/MengTo/Spring,Swift
+24,angular,https://github.com/angular/angular,TypeScript
+25,awesome,https://github.com/sindresorhus/awesome,-
